@@ -1,0 +1,13 @@
+CAPSLOCK - your own input
+Types - int, str(<16 symb), bool (1\0), float
+
+id starts from 1
+Keyflag = 1\0
+create 1 -NAME SIZE 2 - FIELD1 TYPE1 KEYFLAG FIELD2 TYPE2 KEYFLAG FIELD3 TYPE3 KEYFLAG
+str can be unique
+open NAME  (if id == 0 -> line empty)
+
+insert 1 - NAME 2 - (id NUM) FIELD1 VAL1 ...
+
+
+edit rules : id is not editable

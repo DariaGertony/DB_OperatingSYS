@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DBSYS.iml" filepath="$PROJECT_DIR$/.idea/DBSYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DBSYS2.iml" filepath="$PROJECT_DIR$/.idea/DBSYS2.iml" />
+    </modules>
+  </component>
+</project>
